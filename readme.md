@@ -55,3 +55,8 @@ pip install nltk scikit-learn pandas numpy
 
 ## Summary
 This project demonstrates the process of data collection, preprocessing, and classification of news articles into predefined categories using a Multinomial Naive Bayes model. The integration of data from multiple sources and the application of NLP techniques ensure a robust classification system.
+
+## References
+   - Gasparetti, F. (2017). News Aggregator [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5F61C.
+   - Misra, R. (2022). News Category Dataset. arXiv Preprint arXiv:2209. 11429.
+   - Misra, R., & Grover, J. (01 2021). Sculpting Data for ML: The first act of Machine Learning.
